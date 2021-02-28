@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars1.githubusercontent.com/u/22632046?s=280&v=4" />
+  <img src="https://github.com/TiagoBehenck/todo-list-with-js/blob/main/images/image_readme.png" />
 </p>
 
 ## :pencil: Sobre
