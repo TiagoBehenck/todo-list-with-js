@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/TiagoBehenck/todo-list-with-js/blob/main/images/image_readme.png" />
+  <img src="https://github.com/TiagoBehenck/todo-list-with-js/blob/main/images/readme.png" />
 </p>
 
 ## :pencil: Sobre
